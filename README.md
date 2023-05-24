@@ -1,6 +1,7 @@
-![WordPress + React Starter Kit](frontend/static/images/wordpress-plus-react-header.png)
+## Founder's Grove Headless CMS
 
-[![Build status](https://travis-ci.org/postlight/headless-wp-starter.svg)](https://travis-ci.org/postlight/headless-wp-starter)
+Forked from [Postlight](https://postlight.com)
+
 
 [Postlight](https://postlight.com)'s Headless WordPress + React Starter Kit is an automated toolset that will spin up three things:
 
